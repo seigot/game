@@ -1,7 +1,19 @@
+# pong
+
+```
+pip install pygame
+python pong.py
+```
+
+# click game
+
+```
+pip install pygame
+python click.py
+```
+
 # puyo
 puyo
-
-# exec
 
 version: solo play 
 
